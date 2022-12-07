@@ -4,7 +4,7 @@
 
 * 🌱 I’m currently learning: Data and container management, principles of building a fault-tolerant service and serverless development (I'm taking the course [Cloud Services Engineer](https://practicum.yandex.ru/ycloud/)).
 
-- 📫 How to reach me: [artem.budin@gmail.com](mailto:rtem.budin@gmail.com)
+- 📫 How to reach me: [artem.budin@gmail.com](mailto:artem.budin@gmail.com)
 - ⚡ My electronic business card: [tap)](https://taplink.cc/artem_budin)
 
 ### My diplom: [DevOps engineer](assets/diplom_DevOps_BudinAV.jpg)
