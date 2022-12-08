@@ -8,6 +8,7 @@
 * ⚡ My electronic business card: [tap)](https://taplink.cc/artem_budin)
 
 ### My diplom: [DevOps engineer](https://github.com/Artem-Tvr/My_diplomas_and_certificates/blob/main/diplomas/%20diplom_DevOps_BudinAV.jpg)
+### Diplom project: [tap](https://github.com/Artem-Tvr/diplom)
 
 ## 🔧 Tools To Use
 
