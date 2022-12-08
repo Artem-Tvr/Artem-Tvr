@@ -3,7 +3,7 @@
 ### Hi, i'm Artem. I'm a DevOps engineer 👋
 
 * 🌱 I’m currently learning: Data and container management, principles of building a fault-tolerant service and serverless development (I'm taking the course [Cloud Services Engineer](https://practicum.yandex.ru/ycloud/)).
-* 🤔 What I want to learn next: Improving my skills in Jenkins and Python.
+* 🤔 What I want to learn next: Improving my skills in Jenkins, Golang, K8s and Python.
 * 📫 How to reach me: [artem.budin@gmail.com](mailto:artem.budin@gmail.com)
 * ⚡ My electronic business card: [tap)](https://taplink.cc/artem_budin)
 
