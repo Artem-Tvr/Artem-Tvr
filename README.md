@@ -7,7 +7,7 @@
 * 📫 How to reach me: [artem.budin@gmail.com](mailto:artem.budin@gmail.com)
 * ⚡ My electronic business card: [tap)](https://taplink.cc/artem_budin)
 
-### My diplom: [DevOps engineer](https://github.com/Artem-Tvr/My_diplomas_and_certificates/blob/main/diplomas/%20diplom_DevOps_BudinAV.jpg)
+### My diplom: [DevOps engineer] <img src="https://github.com/Artem-Tvr/My_diplomas_and_certificates/blob/main/diplomas/%20diplom_DevOps_BudinAV.jpg" width="100">
 ### Diplom project: [tap](https://github.com/Artem-Tvr/diplom)
 
 ## 🔧 Tools To Use
@@ -38,4 +38,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### My diplom: [DevOps engineer](https://github.com/Artem-Tvr/My_diplomas_and_certificates/blob/main/diplomas/%20diplom_DevOps_BudinAV.jpg) <img src="https://github.com/Artem-Tvr/My_diplomas_and_certificates/blob/main/diplomas/%20diplom_DevOps_BudinAV.jpg" width="48">
+
   -->
