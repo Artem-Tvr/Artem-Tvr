@@ -2,13 +2,14 @@
 
 ### Hi, i'm Artem. I'm a DevOps engineer 👋
 
-* 🌱 I’m currently learning: Data and container management, principles of building a fault-tolerant service and serverless development (I'm taking the course [Cloud Services Engineer](https://practicum.yandex.ru/ycloud/)).
+* 🌱 I’m currently learning: Data and container management, principles of building a fault-tolerant service and serverless development (I'm taking the course [Cloud Services Engineer](https://practicum.yandex.ru/ycloud/)) - Done!
 * 🤔 What I want to learn next: Improving my skills in Jenkins, Golang, K8s and Python.
 * 📫 How to reach me: [artem.budin@gmail.com](mailto:artem.budin@gmail.com)
 * ⚡ My electronic business card: [tap)](https://taplink.cc/artem_budin)
 
-### My diplom: <img src="https://github.com/Artem-Tvr/My_diplomas_and_certificates/blob/main/diplomas/%20diplom_DevOps_BudinAV.jpg" width="100">
-### Diplom project: [tap](https://github.com/Artem-Tvr/diplom)
+### My diplom Netology: <img src="https://github.com/Artem-Tvr/My_diplomas_and_certificates/blob/main/diplomas/%20diplom_DevOps_BudinAV.jpg" width="100">
+### My diplom Yandex Cloud: <img src="https://github.com/Artem-Tvr/My_diplomas_and_certificates/blob/main/diplomas/Diplom-Yandex-Cloud.png" width="100">
+### My projects: [tap](https://github.com/Artem-Tvr/diplom)
 
 ## 🔧 Tools To Use
 
